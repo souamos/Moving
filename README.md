@@ -1,6 +1,6 @@
-# Livro de exercícios
+# Livro de exercícios :running:
 
-Olá! Bem vindo ao meu livro de exercícios! :running:
+Olá! Bem vindo ao meu livro de exercícios! 
 
 - Corrida
 
